@@ -1,0 +1,4 @@
+#Wed Jan 18 09:19:49 CET 2023
+base.0=/Users/vadimpopov/dev/mobile/hamburg/time-tracker-jiwges/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,19 @@
+{
+  "emptyReport": "Report is empty",
+  "reportFor": "Report for",
+  "daily": "Daily",
+  "weekly": "Weekly",
+  "monthly": "Monthly",
+  "addTime": "Add time",
+  "lastWeek": "Last week",
+  "yesterday": "Yesterday",
+  "lastMonth": "Last month",
+  "tryAgain": "Try again",
+  "somethingWentWrong": "Something went wrong",
+  "save": "Save",
+  "addHours": "Add hours",
+  "appTitle": "time_tracker",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
